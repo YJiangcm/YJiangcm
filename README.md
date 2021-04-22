@@ -1,23 +1,31 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<!--
-**YJiangcm/YJiangcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm Aditya.</h2>
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YJiangcm&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YJiangcm&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJiangcm&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="mailto:yjiangcm@connect.ust.hk"><img alt="Email" src="https://img.shields.io/badge/Email-yjiangcm@connect.ust.hk-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/yuxin-jiang-836a941b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jiang%20Yuxin-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
+⭐️ From [YJiangcm](https://github.com/YJiangcm)
