@@ -1,6 +1,5 @@
 <h2> Hey there! I'm Jiang Yuxin.</h2>
 
-### ⚙️ &nbsp;GitHub Analytics
 <br/>
 
 <a href="https://github.com/AVS1508">
