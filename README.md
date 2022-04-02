@@ -13,5 +13,5 @@
 
 <p align="center">
 <a href="mailto:yjiangcm@connect.ust.hk"><img alt="Email" src="https://img.shields.io/badge/Email-yjiangcm@connect.ust.hk-blue?style=flat-square&logo=gmail"></a>
-<a href="http://yjiangcm.github.io"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jiang%20Yuxin-blue?style=flat-square&logo=linkedin"></a>
+<a href="http://yjiangcm.github.io"><img alt="LinkedIn" src="https://img.shields.io/badge/Personal%20Web-Yuxin%20Jiang-blue?style=flat-square&logo=github"></a>
 </p>
