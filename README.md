@@ -1,4 +1,4 @@
-<h2> Hey there!👋 I'm Jiang Yuxin (personal web: https://yjiangcm.github.io/).</h2>
+<h2> Hey there!👋 I'm Yuxin Jiang (personal web: https://yjiangcm.github.io/).</h2>
 
 <br/>
 
