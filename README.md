@@ -9,7 +9,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with me </h3>
 
 <p align="center">
 <a href="mailto:yjiangcm@connect.ust.hk"><img alt="Email" src="https://img.shields.io/badge/Email-yjiangcm@connect.ust.hk-blue?style=flat-square&logo=gmail"></a>
